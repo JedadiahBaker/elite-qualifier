@@ -16,8 +16,10 @@ This is Something
 
 ## Something Something
 
-This is something of Somethings
+This is something of Something
 
 ## 3 Somethings
 
-This is 3 of Something
+These are 3 of Something
+
+(Things need to be fixed)
